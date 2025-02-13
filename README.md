@@ -1,7 +1,7 @@
 # Sandbox-Numworks
 A sandbox game created for the numworks calculator has external app.
 
-# A BIG THANKS to booti386 for helping me during this project
+## A BIG THANKS to booti386 for helping me during this project
 
 ## Place particules :
 - Walls : OK (set the first point and the second point of the wall by clicking on the OK key)
